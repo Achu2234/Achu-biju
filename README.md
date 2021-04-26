@@ -1,4 +1,4 @@
-## <h1 align="center">Hi! 👋 I'mAchu biju </h1>
+Hi! 👋 I'mAchu biju 
 
 - 🔭 I’m currently working on Nothing!
 - 🌱 I’m currently learning Everything I want! 😅
