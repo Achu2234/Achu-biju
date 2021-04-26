@@ -18,4 +18,4 @@ Hi! 👋 I'mAchu biju
                                                                                                                                        
 # Stats
 
-![Hirusha-H's GitHub stats](https://github-readme-stats.vercel.app/api?username=Itz-fork&show_icons=true&theme=tokyonight)
+![Achubiju's github stats](https://github-readme-stats.vercel.app/api?username=Achu2234)
