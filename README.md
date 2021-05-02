@@ -23,4 +23,4 @@ Hi! 👋 I'mAchu biju
 
 Language
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Achu2234)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Achu2234)](https://github.com/Achu2234/github-readme-stats)
