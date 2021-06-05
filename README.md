@@ -14,13 +14,13 @@ Hi! 👋 I'mAchu biju
 
 # Contact Me
 
-<a href="https://t.me/Amalbiju154"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://t.me/doreamonfans1"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
                                                                                                                                        
 # Stats
 
-![Achubiju's github stats](https://github-readme-stats.vercel.app/api?username=Achu2234)
+![Achubiju's github stats](https://github-readme-stats.vercel.app/api?username=disneyteam76)
 
 
 Language
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Achu2234)](https://github.com/Achu2234/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=disneyteam76)](https://github.com/disneyteam76/github-readme-stats)
